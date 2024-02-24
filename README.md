@@ -17,9 +17,9 @@ I'm always eager to collaborate on exciting projects and learn from fellow devel
 
 You can connect with me on various platforms:
 
-- *Instagram:* [GiteshPaitwar](https://www.instagram.com/rxjpatil?igsh=ZmJrZmU4Z2pzZnZz)
-- *LinkedIn:* [GiteshPaitwar](https://www.linkedin.com/in/rxjpatil/)
-- *GitHub:* [GiteshPaitwar](https://github.com/rxjpatil)
+- *Instagram:* [GiteshPaitwar](https://www.instagram.com/gitu_1807/)
+- *LinkedIn:* [GiteshPaitwar](www.linkedin.com/in/gitesh-paitwar)
+- *GitHub:* [GiteshPaitwar](https://github.com/Gitu1807)
 
 
 
