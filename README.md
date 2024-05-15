@@ -13,15 +13,11 @@
 
 - 📫 How to reach me **paitwargitesh74@gmail.com**
 
-- 📄 Know about my experiences [https://rxjpatil.freewebhostmost.com/resume.html](https://rxjpatil.freewebhostmost.com/resume.html)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rxjpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rxjpatil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rxjpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rxjpatil" height="30" width="40" /></a>
-<a href="https://instagram.com/rxjpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rxjpatil" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@7codz?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@7codz?sub_confirmation=1" height="30" width="40" /></a>
-<a href="https://discord.gg/mAdda4jGwg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/mAdda4jGwg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gitesh-paitwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rxjpatil" height="30" width="40" /></a>
+<a href="https://instagram.com/gitu_1807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rxjpatil" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@554-giteshpaitwar9?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@7codz?sub_confirmation=1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
